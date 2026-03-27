@@ -1,9 +1,0 @@
-<resources>
-    <style name="Theme.VolunteerDashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/purple_primary</item>
-        <item name="colorPrimaryVariant">@color/purple_dark</item>
-        <item name="colorOnPrimary">@color/white</item>
-        <item name="android:statusBarColor">@color/purple_dark</item>
-        <item name="colorSurface">@color/white</item>
-    </style>
-</resources>
