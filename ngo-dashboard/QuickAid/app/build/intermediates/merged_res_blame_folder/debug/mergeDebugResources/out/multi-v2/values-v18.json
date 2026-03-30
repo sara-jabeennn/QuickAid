@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fyp.quickaid.app-mergeDebugResources-36:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sara\\.gradle\\caches\\8.13\\transforms\\9fecc491f950d228f88a5e1d39ae3346\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
