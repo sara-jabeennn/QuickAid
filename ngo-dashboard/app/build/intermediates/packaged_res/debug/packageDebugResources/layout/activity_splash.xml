@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/blue">
+
+    <!-- Icons - White Outlines -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <!-- Shield Icon -->
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/ic_white_shield"
+            android:tint="@color/white"
+            android:layout_marginEnd="20dp" />
+
+        <!-- Warning/Alert Icon -->
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/ic_alert"
+            android:tint="@color/white" />
+    </LinearLayout>
+
+    <!-- App Name -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QuickAid"
+        android:textSize="56sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:letterSpacing="0.05"
+        android:layout_marginTop="32dp" />
+
+    <!-- Subtitle - Single Line -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Community Safety &amp; Emergency Response"
+        android:textSize="13sp"
+        android:textColor="@color/white"
+        android:layout_marginTop="8dp"
+        android:alpha="0.9"
+        android:maxLines="1" />
+
+    <!-- Progress Bar - Bolder and White -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="220dp"
+        android:layout_height="6dp"
+        android:layout_marginTop="50dp"
+        android:indeterminate="true"
+        android:progressTint="@color/white"
+        android:indeterminateTint="@color/white" />
+
+    <!-- Loading Text -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loading..."
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:alpha="0.8" />
+
+</LinearLayout>
