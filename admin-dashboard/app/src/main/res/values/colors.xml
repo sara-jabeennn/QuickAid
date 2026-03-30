@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#8B2FC9</color>
+    <color name="purple_dark">#6A0DAD</color>
+    <color name="purple_light">#B44FE8</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#888888</color>
+    <color name="color_success">#4CAF50</color>
+    <color name="color_warning">#FF9800</color>
+    <color name="color_error">#F44336</color>
+    <color name="color_orange">#FF6B35</color>
+    <color name="status_completed_bg">#E8F5E9</color>
+    <color name="status_completed_text">#2E7D32</color>
+    <color name="status_pending_bg">#FFF3E0</color>
+    <color name="status_pending_text">#E65100</color>
+    <color name="status_critical_bg">#FFEBEE</color>
+    <color name="status_critical_text">#C62828</color>
+    <color name="action_red_bg">#FFEBEE</color>
+    <color name="action_purple_bg">#F3E5F5</color>
+    <color name="action_teal_bg">#E0F2F1</color>
+    <color name="action_pink_bg">#FCE4EC</color>
+    <color name="action_green_bg">#E8F5E9</color>
+    <color name="severity_critical_bg">#FFEBEE</color>
+    <color name="severity_critical_text">#C62828</color>
+    <color name="severity_high_bg">#FFF3E0</color>
+    <color name="severity_high_text">#E65100</color>
+    <color name="severity_medium_bg">#FFFDE7</color>
+    <color name="severity_medium_text">#F57F17</color>
+    <color name="severity_low_bg">#E8F5E9</color>
+    <color name="severity_low_text">#2E7D32</color>
+    <!-- Avatar colors -->
+    <color name="avatar_blue">#2196F3</color>
+    <color name="avatar_orange">#FF9800</color>
+    <color name="avatar_purple">#9C27B0</color>
+
+    <!-- Role badge colors -->
+    <color name="role_volunteer_bg">#E3F2FD</color>
+    <color name="role_volunteer_text">#1565C0</color>
+    <color name="role_victim_bg">#FFF3E0</color>
+    <color name="role_victim_text">#E65100</color>
+    <color name="role_ngo_bg">#F3E5F5</color>
+    <color name="role_ngo_text">#6A1B9A</color>
+
+    <!-- Status badge colors -->
+    <color name="status_active_bg">#E8F5E9</color>
+    <color name="status_active_text">#2E7D32</color>
+     <color name="status_blocked_bg">#FFEBEE</color>
+    <color name="status_blocked_text">#C62828</color>
+    <color name="status_approved_bg">#E8F5E9</color>
+    <color name="status_approved_text">#2E7D32</color>
+    <color name="status_rejected_bg">#FFEBEE</color>
+    <color name="status_rejected_text">#C62828</color>
+    <!-- Priority badge colors -->
+    <color name="priority_critical_bg">#FFEBEE</color>
+    <color name="priority_critical_text">#C62828</color>
+    <color name="priority_high_bg">#FFF3E0</color>
+    <color name="priority_high_text">#E65100</color>
+    <color name="priority_medium_bg">#FFFDE7</color>
+    <color name="priority_medium_text">#F57F17</color>
+    <color name="priority_information_bg">#E3F2FD</color>
+    <color name="priority_information_text">#1565C0</color>
+</resources>
+
+
+

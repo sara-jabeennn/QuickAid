@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/tasksFragment"
+        android:icon="@drawable/ic_tasks"
+        android:title="Tasks"/>
+    <item
+        android:id="@+id/chatFragment"
+        android:icon="@drawable/ic_chat"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/resourcesFragment"
+        android:icon="@drawable/ic_resources"
+        android:title="Resources"/>
+</menu>

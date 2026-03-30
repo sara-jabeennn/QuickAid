@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_medium">#EF9F27</color>
+    <color name="card_border">#e5dff5</color>
+    <color name="gray_bg">#f4f4f8</color>
+    <color name="gray_text">#8a95a8</color>
+    <color name="green_done">#1D9E75</color>
+    <color name="nav_active">#674FA3</color>
+    <color name="nav_inactive">#aaaaaa</color>
+    <color name="purple_accent">#c8a8f0</color>
+    <color name="purple_dark">#4a3580</color>
+    <color name="purple_light">#f6f4fb</color>
+    <color name="purple_primary">#674FA3</color>
+    <color name="red_urgent">#E24B4A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">VolunteerDashboard</string>
+    <string name="default_web_client_id" translatable="false">754019091295-3831uoformbr84nc74281522r47bl0jh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">754019091295</string>
+    <string name="google_api_key" translatable="false">AIzaSyCECRX8iFodprOfmQ3iag9GXvO95TJCOnM</string>
+    <string name="google_app_id" translatable="false">1:754019091295:android:f9869315399fb55ecf6cea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCECRX8iFodprOfmQ3iag9GXvO95TJCOnM</string>
+    <string name="google_storage_bucket" translatable="false">quickaid-0623.firebasestorage.app</string>
+    <string name="project_id" translatable="false">quickaid-0623</string>
+    <style name="Theme.VolunteerDashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/purple_dark</item>
+        <item name="colorSurface">@color/white</item>
+    </style>
+</resources>
