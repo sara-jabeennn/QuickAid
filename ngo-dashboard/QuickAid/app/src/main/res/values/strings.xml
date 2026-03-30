@@ -1,0 +1,46 @@
+<resources>
+    <!-- Existing app name -->
+    <string name="app_name">QuickAid</string>
+
+    <!-- New strings for NGO app -->
+    <string name="ngo_command_center">NGO Command Center</string>
+    <string name="relief_coordination_hub">Relief Coordination Hub</string>
+    <string name="active_volunteers">Active Volunteers</string>
+    <string name="resources_distributed">Resources Distributed</string>
+    <string name="pending_requests">Pending Requests</string>
+    <string name="areas_covered">Areas Covered</string>
+    <string name="recent_activities">Recent Activities</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="assign_volunteers">Assign Volunteers</string>
+    <string name="track_resources">Track Resources</string>
+    <string name="relief_report">Relief Report</string>
+    <string name="victim_requests">Victim Requests</string>
+    <string name="victims_map">Victims Map</string>
+    <string name="chat">Chat</string>
+    <string name="overall_impact">Overall Impact</string>
+    <string name="completed">completed</string>
+    <string name="pending">pending</string>
+
+
+
+
+
+
+
+
+        <!-- Support Categories -->
+        <string-array name="support_categories">
+            <item>Technical Issue</item>
+            <item>Account Problem</item>
+            <item>Feature Request</item>
+            <item>Bug Report</item>
+            <item>General Inquiry</item>
+            <item>Privacy Concern</item>
+            <item>Other</item>
+        </string-array>
+
+
+
+
+
+</resources>
